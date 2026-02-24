@@ -9,6 +9,7 @@ United Kingdom
 
 📧 gregory.ogbili@gmail.com  
 🔗 https://github.com/gregoryogbili  
+📄 **Download Full CV (PDF):** [Click Here](assets/GREGORY-OGBILI-CV-2025.pdf)
 
 ---
 
