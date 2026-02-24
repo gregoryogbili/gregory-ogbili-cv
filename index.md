@@ -4,17 +4,17 @@ title: Gregory Ogbili — CV
 ---
 
 # Gregory Ogbili
-AI Engineer | Full-Stack Developer  
-United Kingdom  
+### AI Engineer | Full-Stack Developer | MSc Artificial Intelligence (UK)
 
+📍 United Kingdom  
 📧 gregory.ogbili@gmail.com  
-🔗 https://github.com/gregoryogbili  
-📄 **Download Full CV (PDF):** [Click Here](assets/GREGORY-OGBILI-CV-2025.pdf)
+🔗 GitHub: https://github.com/gregoryogbili  
+📄 **Download CV (PDF):** [Click Here](assets/GREGORY-OGBILI-CV-2025.pdf)
 
 ---
 
-## About Me
-AI Engineer and Full-Stack Developer building LLM-powered applications, computer vision systems, and production-ready APIs using Python, TypeScript, and cloud platforms.
+## Professional Summary
+AI Engineer and Full-Stack Developer specialising in LLM-powered systems, computer vision applications, and scalable AI APIs. Experienced in building production-ready AI platforms using Python, TypeScript, and cloud deployment environments. 
 
 ---
 
@@ -36,6 +36,16 @@ AI Engineer and Full-Stack Developer building LLM-powered applications, computer
 - Designed full-stack AI platforms (Next.js + Node.js + PostgreSQL)  
 - Deployed production apps to Render & Vercel  
 
+---
+
+## Live Projects
+
+🔹 **NewsTrac (AI News Intelligence Platform)**  
+Frontend: https://newstrack-frontend.vercel.app/  
+Backend: https://newstrack-backend-5rzq.onrender.com/  
+
+🔹 **Hitched (AI Matchmaking Platform)**  
+Full-stack AI application integrating LLM conversational AI.
 ---
 
 ## Education
